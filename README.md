@@ -1,18 +1,6 @@
-# SmsDemo
+# SMS Demo
 
-To start your Phoenix server:
+This is a a write-up and associated code for how to run an Elixir app that communicates to and from SMS using the service TextBelt.
 
-  * Install dependencies with `mix deps.get`
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+For a step by step walk through of how to build this project go [`Here`](https://dev.to/byronsalty/elixir-and-sms-tutorial-4l4n).
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
